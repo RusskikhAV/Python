@@ -15,7 +15,7 @@
     
 |#| Task | Description | Status |    
 |---|---|---|---|
-|1.| [Привет, Яндекс!]([https://github.com/RusskikhAV/Python/blob/main/zadanie_1.py](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_1/zadanie_1.py))| Тесты: 2/2 | <a href="https://new.contest.yandex.ru/41233/problem?id=149944/2022_10_11/GUYE2kn2hJ"><img src="./docs/img/solution.png"></a> |
+|1.| [Привет, Яндекс!](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_1/zadanie_1.py)| Тесты: 2/2 | <a href="https://new.contest.yandex.ru/41233/problem?id=149944/2022_10_11/GUYE2kn2hJ"><img src="./docs/img/solution.png"></a> |
 |2.| [Привет, всем!](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_1/zadanie_2.py)| Тесты: 52/52 | <a href="https://new.contest.yandex.ru/41233/problem?id=149944/2022_10_11/NhiuaMYLQb"><img src="./docs/img/solution.png"></a>|
 |3.| [Излишняя автоматизация](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_1/zadanie_3.py)| Тесты: 52/52 | <a href="https://new.contest.yandex.ru/41233/problem?id=149944/2022_10_11/fg1gvibnqE"><img src="./docs/img/solution.png"></a> |
 |4.| [Сдача](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_1/zadanie_4.py)| Тесты: 6/6 | <a href="https://new.contest.yandex.ru/41233/problem?id=149944/2022_10_11/HBBuVDcyZi"><img src="./docs/img/solution.png"></a> |
