@@ -16,8 +16,8 @@ https://drive.google.com/file/d/1EW2rPpFCN9MCSiuvlHni-EcaJNwnVgjk/view?usp=shari
     
 |#| Task | Description | Status |    
 |---|---|---|---|
-|1.| [Привет, Яндекс!](https://github.com/RusskikhAV/Python/blob/main/zadanie_1.py)| Тесты: 2/2 |<a href="https://new.contest.yandex.ru/41233/problem?id=149944/2022_10_11/GUYE2kn2hJ"><img src="./docs/img/solution.png" height="35"></a>|
-|2.| [Привет, всем!](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_1/zadanie_2.py)| Тесты: 52/52 | <p>My favorite color is <del>blue</del> <ins>red</ins>!</p> |
+|1.| [Привет, Яндекс!](https://github.com/RusskikhAV/Python/blob/main/zadanie_1.py)| Тесты: 2/2 |<a href="https://new.contest.yandex.ru/41233/problem?id=149944/2022_10_11/GUYE2kn2hJ"><img src="./docs/img/solution.png"></a>|
+|2.| [Привет, всем!](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_1/zadanie_2.py)| Тесты: 52/52 | <a href=""><img src="./docs/img/solution.png" height="25"></a>|
 |3.| [Излишняя автоматизация](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_1/zadanie_3.py)| Тесты: 52/52 | Решена полностью |
 |4.| [Сдача](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_1/zadanie_4.py)| Тесты: 6/6 | Решена полностью |
 |5.| [Магазин](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_1/zadanie_5.py)| Тесты: 22/22 | Решена полностью |
