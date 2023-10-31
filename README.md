@@ -2,7 +2,6 @@
     <h1>Python</h1>
     <i>let me show you my solutions to problems from Yandex Academy</i>
 </div>
-https://drive.google.com/file/d/1EW2rPpFCN9MCSiuvlHni-EcaJNwnVgjk/view?usp=sharing
 
 # Index
 
