@@ -17,24 +17,24 @@
 |---|---|---|---|
 |1.| [Привет, Яндекс!](https://github.com/RusskikhAV/Python/blob/main/zadanie_1.py)| Тесты: 2/2 | <a href="https://new.contest.yandex.ru/41233/problem?id=149944/2022_10_11/GUYE2kn2hJ"><img src="./docs/img/solution.png"></a> |
 |2.| [Привет, всем!](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_1/zadanie_2.py)| Тесты: 52/52 | <a href="https://new.contest.yandex.ru/41233/problem?id=149944/2022_10_11/NhiuaMYLQb"><img src="./docs/img/solution.png"></a>|
-|3.| [Излишняя автоматизация](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_1/zadanie_3.py)| Тесты: 52/52 | <a href=""><img src="./docs/img/solution.png"></a> |
-|4.| [Сдача](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_1/zadanie_4.py)| Тесты: 6/6 | <a href=""><img src="./docs/img/solution.png"></a> |
-|5.| [Магазин](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_1/zadanie_5.py)| Тесты: 22/22 | <a href=""><img src="./docs/img/solution.png"></a> |
-|6.| [Чек](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_1/zadanie_6.py)| Тесты: 22/22 | <a href=""><img src="./docs/img/solution.png"></a> |
-|7.| [Делу — время, потехе — час](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_1/zadanie_7.py)| Тесты: 22/22 | <a href=""><img src="./docs/img/solution.png"></a> |
-|8.| [Наказание](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_1/zadanie_8.py)| Тесты: 22/22 | <a href=""><img src="./docs/img/solution.png"></a> |
-|9.| [Деловая колбаса](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_1/zadanie_9.py)| Тесты: 22/22 | <a href=""><img src="./docs/img/solution.png"></a> |
-|10.| [Детский сад — штаны на лямках](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_1/zadanie_10.py)| Тесты: 22/22 | <a href=""><img src="./docs/img/solution.png"></a> |
-|11.| [Автоматизация игры](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_1/zadanie_11.py)| Тесты: 22/22 | <a href=""><img src="./docs/img/solution.png" ></a> |
-|12.| [Интересное сложение](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_1/zadanie_12.py)| Тесты: 22/22 | <a href=""><img src="./docs/img/solution.png"></a> |
-|13.| [Дед Мороз и конфеты](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_1/zadanie_13.py)| Тесты: 22/22 | <a href=""><img src="./docs/img/solution.png"></a> |
-|14.| [Шарики и ручки](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_1/zadanie_14.py)| Тесты: 21/21 | <a href=""><img src="./docs/img/solution.png"></a> |
-|15.| [В ожидании доставки](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_1/zadanie_15.py)| Тесты: 22/22 | <a href=""><img src="./docs/img/solution.png"></a> |
-|16.| [Доставка](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_1/zadanie_16.py)| Тесты: 22/22 | <a href=""><img src="./docs/img/solution.png"></a> |
-|17.| [Ошибка кассового аппарата](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_1/zadanie_17.py)| Тесты: 22/22 | <a href=""><img src="./docs/img/solution.png"></a> |
-|18.| [Сдача 10](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_1/zadanie_18.py)| Тесты: 22/22 | <a href=""><img src="./docs/img/solution.png"></a> |
-|19.| [Украшение чека](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_1/zadanie_19.py)| Тесты: 22/22 | <a href=""><img src="./docs/img/solution.png"></a> |
-|20.| [Мухи отдельно, котлеты отдельно](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_1/zadanie_20.py)| Тесты: 21/21 | <a href=""><img src="./docs/img/solution.png"></a> |
+|3.| [Излишняя автоматизация](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_1/zadanie_3.py)| Тесты: 52/52 | <a href="https://new.contest.yandex.ru/41233/problem?id=149944/2022_10_11/fg1gvibnqE"><img src="./docs/img/solution.png"></a> |
+|4.| [Сдача](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_1/zadanie_4.py)| Тесты: 6/6 | <a href="https://new.contest.yandex.ru/41233/problem?id=149944/2022_10_11/HBBuVDcyZi"><img src="./docs/img/solution.png"></a> |
+|5.| [Магазин](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_1/zadanie_5.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41233/problem?id=149944/2022_10_11/DhV2RidxW1"><img src="./docs/img/solution.png"></a> |
+|6.| [Чек](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_1/zadanie_6.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41233/problem?id=149944/2022_10_11/4rIMUQ1ZZQ"><img src="./docs/img/solution.png"></a> |
+|7.| [Делу — время, потехе — час](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_1/zadanie_7.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41233/problem?id=149944/2022_10_11/pmhKdCTXZJ"><img src="./docs/img/solution.png"></a> |
+|8.| [Наказание](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_1/zadanie_8.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41233/problem?id=149944/2022_10_11/nmNJWQauTP"><img src="./docs/img/solution.png"></a> |
+|9.| [Деловая колбаса](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_1/zadanie_9.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41233/problem?id=149944/2022_10_11/uGUohfghPJ"><img src="./docs/img/solution.png"></a> |
+|10.| [Детский сад — штаны на лямках](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_1/zadanie_10.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41233/problem?id=149944/2022_10_11/iEQ3yuirUx"><img src="./docs/img/solution.png"></a> |
+|11.| [Автоматизация игры](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_1/zadanie_11.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41233/problem?id=149944/2022_10_11/A8l7ygW6KL"><img src="./docs/img/solution.png" ></a> |
+|12.| [Интересное сложение](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_1/zadanie_12.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41233/problem?id=149944/2022_10_11/9RyTbOQjMP"><img src="./docs/img/solution.png"></a> |
+|13.| [Дед Мороз и конфеты](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_1/zadanie_13.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41233/problem?id=149944/2022_10_11/IUHp8TlSfb"><img src="./docs/img/solution.png"></a> |
+|14.| [Шарики и ручки](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_1/zadanie_14.py)| Тесты: 21/21 | <a href="https://new.contest.yandex.ru/41233/problem?id=149944/2022_10_11/QmznK3Z1U8"><img src="./docs/img/solution.png"></a> |
+|15.| [В ожидании доставки](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_1/zadanie_15.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41233/problem?id=149944/2022_10_11/cpwScRzQ0S"><img src="./docs/img/solution.png"></a> |
+|16.| [Доставка](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_1/zadanie_16.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41233/problem?id=149944/2022_10_11/xsWquSmwYA"><img src="./docs/img/solution.png"></a> |
+|17.| [Ошибка кассового аппарата](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_1/zadanie_17.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41233/problem?id=149944/2022_10_11/Cr9gvZ73Ac"><img src="./docs/img/solution.png"></a> |
+|18.| [Сдача 10](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_1/zadanie_18.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41233/problem?id=149944/2022_10_11/10fs9x5R6C"><img src="./docs/img/solution.png"></a> |
+|19.| [Украшение чека](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_1/zadanie_19.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41233/problem?id=149944/2022_10_11/U5mhQZQkQh"><img src="./docs/img/solution.png"></a> |
+|20.| [Мухи отдельно, котлеты отдельно](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_1/zadanie_20.py)| Тесты: 21/21 | <a href="https://new.contest.yandex.ru/41233/problem?id=149944/2022_10_13/Kh8Awf5qUi"><img src="./docs/img/solution.png"></a> |
 
 **[Back to Index](#index)**
 
