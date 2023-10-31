@@ -17,7 +17,7 @@
 |#| Task | Description | Status |    
 |---|---|---|---|
 |1.| [Привет, Яндекс!](https://github.com/RusskikhAV/Python/blob/main/zadanie_1.py)|||
-|2.| [Привет, всем!]()|||
+|2.| [Привет, всем!](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_1/zadanie_2.py)|||
 |3.| [Излишняя автоматизация]()|||
 |4.| [Сдача]()|||
 |5.| [Магазин]()|||
