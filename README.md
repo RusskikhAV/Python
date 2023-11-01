@@ -8,7 +8,7 @@
 * [2. Базовые конструкции Python](#2базовые-конструкции-python)
 * [2.1.Ввод и вывод данных. Операции с числами, строками. Форматирование](#21-ввод-и-вывод-данных-операции-с-числами-строками-форматирование)
 * [2.2 Условный оператор](#22-условный-оператор)
-
+* [2.3 Циклы](#23-циклы)
 
 ### 2.Базовые конструкции Python
 #### 2.1 Ввод и вывод данных. Операции с числами, строками. Форматирование
@@ -62,4 +62,30 @@
 |19.| [Автоматизация безопасности](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_2/zadanie_19.py)| Тесты: 19/? | <a href="https://new.contest.yandex.ru/41234/problem?id=149944/2022_10_12/ZHMJWMoxqb"><img src="./docs/img/not_solved.png"></a> |
 |20.| [Зайка — 2](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_2/zadanie_20.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41234/problem?id=149944/2022_10_12/HMLE76pVx9"><img src="./docs/img/solution.png"></a> |
    
+**[Back to Index](#index)**
+
+#### 2.3 Циклы 
+|#| Task | Description | Status |    
+|---|---|---|---|
+|1.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|2.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|3.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|4.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|5.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|6.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|7.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|8.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|9.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|10.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|11.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|12.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|13.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|14.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|15.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|16.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|17.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|18.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|19.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|20.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+
 **[Back to Index](#index)**
