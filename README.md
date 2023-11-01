@@ -67,7 +67,7 @@
 #### 2.3 Циклы 
 |#| Task | Description | Status |    
 |---|---|---|---|
-|1.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|1.| [Раз, два, три! Ёлочка, гори!]()| Тесты: / | <a href="https://new.contest.yandex.ru/41235/problem?id=149944/2022_10_12/vl2deZQB9A"><img src="./docs/img/solution.png"></a> |
 |2.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
 |3.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
 |4.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
