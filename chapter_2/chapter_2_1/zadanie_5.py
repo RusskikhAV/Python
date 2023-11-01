@@ -14,6 +14,6 @@
 
 # каст к float, т.к. вес товара, а так же цена может быть не целым числом
 price_for_kg = float(input())
-tovar_kg = float(input())
+product_kg = float(input())
 currency = float(input())
-print(int(currency - tovar_kg * price_for_kg))
+print(int(currency - product_kg * price_for_kg))
