@@ -67,25 +67,25 @@
 #### 2.3 Циклы 
 |#| Task | Description | Status |    
 |---|---|---|---|
-|1.| [Раз, два, три! Ёлочка, гори!]()| Тесты: / | <a href="https://new.contest.yandex.ru/41235/problem?id=149944/2022_10_12/vl2deZQB9A"><img src="./docs/img/solution.png"></a> |
-|2.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
-|3.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
-|4.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
-|5.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
-|6.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
-|7.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
-|8.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
-|9.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
-|10.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
-|11.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
-|12.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
-|13.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
-|14.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
-|15.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
-|16.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
-|17.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
-|18.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
-|19.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
-|20.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|1.| [Раз, два, три! Ёлочка, гори!](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_3/zadanie_1.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41235/problem?id=149944/2022_10_12/vl2deZQB9A"><img src="./docs/img/solution.png"></a> |
+|2.| [Зайка — 3](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_3/zadanie_2.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41235/problem?id=149944/2022_10_12/xpY9e3VkFd"><img src="./docs/img/solution.png"></a> |
+|3.| [Считалочка](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_3/zadanie_3.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41235/problem?id=149944/2022_10_12/2bznxk84IW"><img src="./docs/img/solution.png"></a> |
+|4.| [Считалочка 2.0](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_3/zadanie_4.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41235/problem?id=149944/2022_10_12/XfuKOqDXia"><img src="./docs/img/solution.png"></a> |
+|5.| [Внимание! Акция!](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_3/zadanie_5.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41235/problem?id=149944/2022_10_12/mJzqyKJd6Y"><img src="./docs/img/solution.png"></a> |
+|6.| [НОД](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_3/zadanie_6.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41235/problem?id=149944/2022_10_12/sDCnitRCxN"><img src="./docs/img/solution.png"></a> |
+|7.| [](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_3/zadanie_7.py)| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|8.| [](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_3/zadanie_8.py)| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|9.| [](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_3/zadanie_9.py)| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|10.| [](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_3/zadanie_10.py)| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|11.| [](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_3/zadanie_11.py)| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|12.| [](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_3/zadanie_12.py)| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|13.| [](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_3/zadanie_13.py)| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|14.| [](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_3/zadanie_14.py)| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|15.| [](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_3/zadanie_15.py)| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|16.| [](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_3/zadanie_16.py)| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|17.| [](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_3/zadanie_17.py)| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|18.| [](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_3/zadanie_18.py)| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|19.| [](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_3/zadanie_19.py)| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|20.| [](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_3/zadanie_20.py)| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
 
 **[Back to Index](#index)**
