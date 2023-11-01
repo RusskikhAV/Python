@@ -41,25 +41,25 @@
 #### 2.2 Условный оператор
 |#| Task | Description | Status |    
 |---|---|---|---|
-|1.| [Просто здравствуй, просто как дела]()|||
-|2.| [Кто быстрее?]()|||
-|3.| [Кто быстрее на этот раз?]()|||
-|4.| [Список победителей]()|||
-|5.| [Яблоки]()|||
-|6.| [Сила прокрастинации]()|||
-|7.| [А роза упала на лапу Азора]()|||
-|8.| [Зайка — 1]()|||
-|9.| [Первому игроку приготовиться]()|||
-|10.| [Лучшая защита — шифрование]()|||
-|11.| [Красота спасёт мир]()|||
-|12.| [Музыкальный инструмент]()|||
-|13.| [Властелин Чисел: Братство общей цифры]()|||
-|14.| [Властелин Чисел: Две Башни]()|||
-|15.| [Властелин Чисел: Возвращение Цезаря]()|||
-|16.| [Легенды велогонок возвращаются: кто быстрее?]()|||
-|17.| [Корень зла]()|||
-|18.| [Территория зла]()|||
-|19.| [Автоматизация безопасности]()|||
-|20.| [Зайка — 2]()|||
+|1.| [Просто здравствуй, просто как дела](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_2/zadanie_1.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41234/problem?id=149944/2022_10_12/ZP5AL2TjmP"><img src="./docs/img/solution.png"></a> |
+|2.| [Кто быстрее?](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_2/zadanie_2.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41234/problem?id=149944/2022_10_12/QqmyoQXnbi"><img src="./docs/img/solution.png"></a> |
+|3.| [Кто быстрее на этот раз?](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_2/zadanie_3.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41234/problem?id=149944/2022_10_12/A0SckMR7Fl"><img src="./docs/img/solution.png"></a> |
+|4.| [Список победителей](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_2/zadanie_4.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41234/problem?id=149944/2022_10_12/zai536kBZM"><img src="./docs/img/solution.png"></a> |
+|5.| [Яблоки](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_2/zadanie_5.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41234/problem?id=149944/2022_10_12/N16SQhB7I5"><img src="./docs/img/solution.png"></a> |
+|6.| [Сила прокрастинации](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_2/zadanie_6.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41234/problem?id=149944/2022_10_12/EAxwf5ePS0"><img src="./docs/img/solution.png"></a> |
+|7.| [А роза упала на лапу Азора](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_2/zadanie_7.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41234/problem?id=149944/2022_10_12/B7mGxr1sfI"><img src="./docs/img/solution.png"></a> |
+|8.| [Зайка — 1](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_2/zadanie_8.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41234/problem?id=149944/2022_10_12/rcs4G2h1gr"><img src="./docs/img/solution.png"></a> |
+|9.| [Первому игроку приготовиться](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_2/zadanie_9.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41234/problem?id=149944/2022_10_12/QlbiLdojwP"><img src="./docs/img/solution.png"></a> |
+|10.| [Лучшая защита — шифрование](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_2/zadanie_10.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41234/problem?id=149944/2022_10_12/3QAUeGXx5F"><img src="./docs/img/solution.png"></a> |
+|11.| [Красота спасёт мир](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_2/zadanie_11.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41234/problem?id=149944/2022_10_12/PyEGwcX6zO"><img src="./docs/img/solution.png"></a> |
+|12.| [Музыкальный инструмент](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_2/zadanie_12.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41234/problem?id=149944/2022_10_12/eWUZpmaeOr"><img src="./docs/img/solution.png"></a> |
+|13.| [Властелин Чисел: Братство общей цифры](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_2/zadanie_13.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41234/problem?id=149944/2022_10_12/KtQaUtVqTY"><img src="./docs/img/solution.png"></a> |
+|14.| [Властелин Чисел: Две Башни](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_2/zadanie_14.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41234/problem?id=149944/2022_10_12/gfPvJGE4si"><img src="./docs/img/solution.png"></a> |
+|15.| [Властелин Чисел: Возвращение Цезаря](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_2/zadanie_15.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41234/problem?id=149944/2022_10_12/uZilCvBkHW"><img src="./docs/img/solution.png"></a> |
+|16.| [Легенды велогонок возвращаются: кто быстрее?](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_2/zadanie_16.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41234/problem?id=149944/2022_10_12/YgmbeuRvZE"><img src="./docs/img/solution.png"></a> |
+|17.| [Корень зла](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_2/zadanie_17.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41234/problem?id=149944/2022_10_12/LLMjyEnXmM"><img src="./docs/img/solution.png"></a> |
+|18.| [Территория зла](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_2/zadanie_18.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41234/problem?id=149944/2022_10_12/GztbrFFU9Y"><img src="./docs/img/solution.png"></a> |
+|19.| [Автоматизация безопасности](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_2/zadanie_19.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41234/problem?id=149944/2022_10_12/ZHMJWMoxqb"><img src="./docs/img/solution.png"></a> |
+|20.| [Зайка — 2](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_2/zadanie_20.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41234/problem?id=149944/2022_10_12/HMLE76pVx9"><img src="./docs/img/solution.png"></a> |
    
 **[Back to Index](#index)**
