@@ -87,7 +87,7 @@
 |17.| [Чётная чистота](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_3/zadanie_17.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41235/problem?id=149944/2022_10_12/ug4ri9TyUv"><img src="./docs/img/solution.png"></a> |
 |18.| [Простая задача 2.0](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_3/zadanie_18.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41235/problem?id=149944/2022_10_12/lhnbg8OyHA"><img src="./docs/img/solution.png"></a> |
 |19.| [Игра в «Угадайку»](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_3/zadanie_19.py)| Тесты: 21/21 | <a href="https://new.contest.yandex.ru/41235/problem?id=149944/2022_10_12/Y1VJ0wGCoq"><img src="./docs/img/solution.png"></a> |
-|20.| [](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_3/zadanie_20.py)| Тесты: 13/13 | <a href="https://new.contest.yandex.ru/41235/problem?id=149944/2022_10_13/fcfFhLYFnU"><img src="./docs/img/solution.png"></a> |
+|20.| [Хайпанём немножечко!](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_3/zadanie_20.py)| Тесты: 13/13 | <a href="https://new.contest.yandex.ru/41235/problem?id=149944/2022_10_13/fcfFhLYFnU"><img src="./docs/img/solution.png"></a> |
 
 **[Back to Index](#index)**
 
