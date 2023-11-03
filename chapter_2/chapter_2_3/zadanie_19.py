@@ -34,19 +34,17 @@ list_num = []
 for i in range(1, 1001):
     list_num.append(i)
 
-# count = list_num[int(len(list_num) / 2)]
+count = list_num[int(len(list_num) / 2)]
 # random_number = random.randint(1, 1000)
-# print(count)
+print(count)
 while (input_number := input()) != "Угадал!":
-    count = list_num[int(len(list_num) / 2)]
-    print(count)
-    if input_number == "б":
-        # print(count, len(list_num), list_num)
+    # print(count)
+    if input_number == "Больше":
+        list_num = list_num[list_num.index(count): len(list_num)]
         count = list_num[int(len(list_num) / 2)]
-        list_num = list_num[count: len(list_num)]
-        # print(count)
-    elif input_number == "м":
+        print(count)
+    elif input_number == "Меньше":
+        list_num = list_num[0: list_num.index(count)]
         count = list_num[int(len(list_num) / 2)]
-        list_num = list_num[0:count]
-        # print(count)
-print(list_num)
+        print(count)
+
