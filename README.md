@@ -114,3 +114,5 @@
 |18.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
 |19.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
 |20.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+
+**[Back to Index](#index)**
