@@ -94,11 +94,11 @@
 #### 2.4 Вложенные циклы
 |#| Task | Description | Status |    
 |---|---|---|---|
-|1.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
-|2.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
-|3.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
-|4.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
-|5.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|1.| [Таблица умножения](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_4/zadanie_1.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41236/problem?id=149944/2022_10_13/jcPL7xtj8c"><img src="./docs/img/solution.png"></a> |
+|2.| [Не таблица умножения](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_4/zadanie_2.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41236/problem?id=149944/2022_10_13/o9iOV4t5aQ"><img src="./docs/img/solution.png"></a> |
+|3.| [Новогоднее настроение](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_4/zadanie_3.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41236/problem?id=149944/2022_10_13/QLsx1szNKE"><img src="./docs/img/solution.png"></a> |
+|4.| [Суммарная сумма](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_4/zadanie_4.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41236/problem?id=149944/2022_10_13/EZ9djvZknN"><img src="./docs/img/solution.png"></a> |
+|5.| [Зайка — 5](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_4/zadanie_5.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41236/problem?id=149944/2022_10_13/bqSUODlval"><img src="./docs/img/solution.png"></a> |
 |6.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
 |7.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
 |8.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
