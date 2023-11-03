@@ -9,6 +9,7 @@
 * [2.1.Ввод и вывод данных. Операции с числами, строками. Форматирование](#21-ввод-и-вывод-данных-операции-с-числами-строками-форматирование)
 * [2.2 Условный оператор](#22-условный-оператор)
 * [2.3 Циклы](#23-циклы)
+* [2.4 Вложенные циклы](#24-вложенные-циклы)
 
 ### 2.Базовые конструкции Python
 #### 2.1 Ввод и вывод данных. Операции с числами, строками. Форматирование
@@ -85,7 +86,31 @@
 |16.| [А роза упала на лапу Азора 2.0](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_3/zadanie_16.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41235/problem?id=149944/2022_10_12/4buSRruiPr"><img src="./docs/img/solution.png"></a> |
 |17.| [Чётная чистота](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_3/zadanie_17.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41235/problem?id=149944/2022_10_12/ug4ri9TyUv"><img src="./docs/img/solution.png"></a> |
 |18.| [Простая задача 2.0](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_3/zadanie_18.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41235/problem?id=149944/2022_10_12/lhnbg8OyHA"><img src="./docs/img/solution.png"></a> |
-|19.| [Игра в «Угадайку»](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_3/zadanie_19.py)| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
-|20.| [](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_3/zadanie_20.py)| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|19.| [Игра в «Угадайку»](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_3/zadanie_19.py)| Тесты: 21/21 | <a href="https://new.contest.yandex.ru/41235/problem?id=149944/2022_10_12/Y1VJ0wGCoq"><img src="./docs/img/solution.png"></a> |
+|20.| [](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_3/zadanie_20.py)| Тесты: 13/13 | <a href="https://new.contest.yandex.ru/41235/problem?id=149944/2022_10_13/fcfFhLYFnU"><img src="./docs/img/solution.png"></a> |
 
 **[Back to Index](#index)**
+
+#### 2.4 Вложенные циклы
+|#| Task | Description | Status |    
+|---|---|---|---|
+|1.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|2.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|3.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|4.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|5.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|6.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|7.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|8.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|9.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|10.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|11.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|12.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|13.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|14.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|15.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|16.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|17.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|18.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|19.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|20.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
