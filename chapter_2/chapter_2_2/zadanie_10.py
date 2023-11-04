@@ -16,9 +16,14 @@
     Результат шифрования
 """
 
+# считывание и сохранение введенных с клавиатуры данных
 password = input()
 
+# находим сумму старших и младших отрядов
 high_order = int(password[0]) + int(password[1])
 inferior_order = int(password[1]) + int(password[2])
+
+# для записи в порядке возрастания, используем тернарный оператор
 print(high_order if high_order > inferior_order else inferior_order,
-      high_order if high_order < inferior_order else inferior_order, sep="")
+      high_order if high_order < inferior_order else inferior_order,
+      sep="")

@@ -16,6 +16,7 @@
     Гарантируется, что в результате вычислений будет получено натуральное число.
 """
 
-number_n = int(input())
-number_m = int(input())
-print(int(number_m / 2 * number_n))
+# считывание и сохранение введенных с клавиатуры данных
+minutes = int(input())
+quantity_of_children = int(input())
+print(int(quantity_of_children / 2 * minutes))

@@ -23,6 +23,7 @@
 
 """
 
+# считывание и сохранение введенных с клавиатуры данных
 name_product = input()
 price_for_kg = int(input())
 product_kg = int(input())

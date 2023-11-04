@@ -17,6 +17,7 @@
 petya = 6
 vasya = 9
 
+# считывание и сохранение введенных с клавиатуры данных
 dima_for_petya = int(input())
 dima_for_vasya = int(input())
 

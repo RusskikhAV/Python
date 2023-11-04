@@ -15,6 +15,7 @@
     Красивый пьедестал (ширина ступеней 8 символов).
 """
 
+# считывание и сохранение введенных с клавиатуры данных
 speed_petya = int(input())
 speed_vasya = int(input())
 speed_tolya = int(input())
@@ -27,6 +28,7 @@ name_1_place = ""
 name_2_place = ""
 name_3_place = ""
 
+# в этой громоздкой записи, перебираю скорости и заношу в переменные соответствующие значения
 if speed_tolya < speed_petya > speed_vasya:
     name_1_place = name_petya
     if speed_tolya > speed_vasya:
