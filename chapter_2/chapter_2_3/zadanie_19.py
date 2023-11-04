@@ -47,4 +47,3 @@ while (input_number := input()) != "Угадал!":
         list_num = list_num[0: list_num.index(count)]
         count = list_num[int(len(list_num) / 2)]
         print(count)
-

@@ -17,17 +17,21 @@
     Одно трёхзначное число, которое приведёт к победе.
 """
 
+# считывание и сохранение введенных с клавиатуры данных
 number_1 = list(input())
 number_2 = list(input())
 
+# нахожу min и max цифру из 1-го числа
 min_num_1 = min(number_1)
 max_num_1 = max(number_1)
 
+# нахожу min и max цифру из 2-го числа
 min_num_2 = min(number_2)
 max_num_2 = max(number_2)
 
 result = ""
 
+# проверяю какая из двух максимальная и составляю число
 if int(max_num_1) > int(max_num_2):
     result += str(max_num_1)
     number_1.remove(max_num_1)
@@ -35,6 +39,7 @@ else:
     result += str(max_num_2)
     number_2.remove(max_num_2)
 
+# проверяю какая из двух минимальная и составляю число
 if int(min_num_1) < int(min_num_2):
     result += str(min_num_1)
     number_1.remove(min_num_1)
@@ -43,6 +48,7 @@ else:
     number_2.remove(min_num_2)
 
 summa = 0
+# нахожу сумму без учета переноса разрядов
 if len(number_1) > 0 and len(number_2) > 0:
     summa = (int(number_1[0]) + int(number_2[0])) % 10
 elif len(number_1) >= 1:
@@ -50,8 +56,9 @@ elif len(number_1) >= 1:
 else:
     summa = (int(number_2[0]) + int(number_2[1])) % 10
 
+# не совсем изящное решение, по записи в середину найденной суммы
+# из текущего результата сделал список, занёс число в середину, сконкотенировал каждую цифру из списка
 res = list(result)
 res.insert(1, summa)
-
 result = str(res[0]) + str(res[1]) + str(res[2])
 print(result)

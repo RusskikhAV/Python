@@ -15,8 +15,15 @@
     а затем количество конфет, что осталось в конфетном отсеке.
 """
 
+# считывание и сохранение введенных с клавиатуры данных
 quantity_of_children = int(input())
 quantity_of_candy = int(input())
+
+# максимум конфет которые можно выдать одному ребенку
 in_one_hands = int(quantity_of_candy / quantity_of_children)
+
+# остаток конфет в конфетном отсеке
 residual = quantity_of_candy - in_one_hands * quantity_of_children
+
+# вывод в консоль, где sep="\n" означает что разделятся строки будут переносом строки
 print(in_one_hands, residual, sep="\n")

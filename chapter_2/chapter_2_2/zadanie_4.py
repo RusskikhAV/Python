@@ -14,6 +14,7 @@
     Имена победителей в порядке занятых мест.
 """
 
+# считывание и сохранение введенных с клавиатуры данных
 average_speed_1 = int(input())
 average_speed_2 = int(input())
 average_speed_3 = int(input())

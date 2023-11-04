@@ -22,6 +22,7 @@
 
 import math
 
+# считывание и сохранение введенных с клавиатуры данных
 a = float(input())
 b = float(input())
 

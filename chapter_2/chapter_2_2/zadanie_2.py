@@ -17,9 +17,12 @@
 Гарантируется, что победителем стал только один.
 """
 
-n_1 = int(input())
-n_2 = int(input())
-if n_1 > n_2:
+# считывание и сохранение введенных с клавиатуры данных
+average_speed_petya = int(input())
+average_speed_vasya = int(input())
+
+
+if average_speed_petya > average_speed_vasya:
     print("Петя")
 else:
     print("Вася")
