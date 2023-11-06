@@ -99,11 +99,11 @@
 |3.| [Новогоднее настроение](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_4/zadanie_3.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41236/problem?id=149944/2022_10_13/QLsx1szNKE"><img src="./docs/img/solution.png"></a> |
 |4.| [Суммарная сумма](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_4/zadanie_4.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41236/problem?id=149944/2022_10_13/EZ9djvZknN"><img src="./docs/img/solution.png"></a> |
 |5.| [Зайка — 5](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_4/zadanie_5.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41236/problem?id=149944/2022_10_13/bqSUODlval"><img src="./docs/img/solution.png"></a> |
-|6.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
-|7.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
-|8.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
-|9.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
-|10.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|6.| [НОД 2.0](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_4/zadanie_6.py)| Тесты: 23/23 | <a href="https://new.contest.yandex.ru/41236/problem?id=149944/2022_10_13/UiHjwITXkg"><img src="./docs/img/solution.png"></a> |
+|7.| [На старт! Внимание! Марш!](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_4/zadanie_7.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41236/problem?id=149944/2022_10_13/sJ4XfG6UWk"><img src="./docs/img/solution.png"></a> |
+|8.| [Максимальная сумма](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_4/zadanie_8.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41236/problem?id=149944/2022_10_13/H4T235LbHq"><img src="./docs/img/solution.png"></a> |
+|9.| [Большое число](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_4/zadanie_9.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41236/problem?id=149944/2022_10_13/8TS9GS6QVs"><img src="./docs/img/solution.png"></a> |
+|10.| [Мы делили апельсин](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_4/zadanie_10.py)| Тесты: / | <a href="https://new.contest.yandex.ru/41236/problem?id=149944/2022_10_13/xNsp548TTK"><img src="./docs/img/solution.png"></a> |
 |11.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
 |12.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
 |13.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
