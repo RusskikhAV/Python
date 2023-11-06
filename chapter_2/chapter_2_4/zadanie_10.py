@@ -16,3 +16,13 @@
 Выводить варианты в порядке увеличения количества долек у Ани, затем Бори и затем уже Вовы.
 """
 
+# считывание и сохранение введенных с клавиатуры данных
+number_of_orange_slices = int(input())
+print("А", "Б", "В")
+
+# цикл с двумя вложенными циклами в которых находим все возможные варианты деления апельсина
+for i in range(1, number_of_orange_slices):
+    for j in range(1, number_of_orange_slices - i):
+        for k in range(number_of_orange_slices - i - j, 0, -1):
+            print(i, j, k)
+            break
