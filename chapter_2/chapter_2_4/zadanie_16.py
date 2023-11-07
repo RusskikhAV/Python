@@ -17,12 +17,11 @@ n = int(input())
 m = int(input())
 
 for i in range(1, n + 1):
-    for j in range(1, m + 1):
-        if j == 1:
-            print(str(i * j).rjust(len(str(n * m)) - len(str(i * j)) if (n * m) > 10 else 2), sep="", end="")
-        elif j == m:
-            print("|".rjust(len(str(n * m)) - len(str(i * j)) if (n * m) > 10 else 2), i * j, end="  ")
+    for j in range(1, n + 1):
+        if j != n:
+            print(f'{(str(i * j) + " " if m % 2 else str(i * j)).center(m)}|', end='')
         else:
-            print("|".rjust(len(str(n * m)) if (n * m) > 10 else 2), i * j, end="")
+            print(f'{(str(i * j) + " " if m % 2 else str(i * j)).center(m)}')
     if i < n:
-        print("\n", "-" * (m * n), sep="")
+        print(f'{"-" * ((m + 1) * n - 1)}')
+
