@@ -60,7 +60,7 @@
 |16.| [Легенды велогонок возвращаются: кто быстрее?](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_2/zadanie_16.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41234/problem?id=149944/2022_10_12/YgmbeuRvZE"><img src="./docs/img/solution.png"></a> |
 |17.| [Корень зла](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_2/zadanie_17.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41234/problem?id=149944/2022_10_12/LLMjyEnXmM"><img src="./docs/img/solution.png"></a> |
 |18.| [Территория зла](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_2/zadanie_18.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41234/problem?id=149944/2022_10_12/GztbrFFU9Y"><img src="./docs/img/solution.png"></a> |
-|19.| [Автоматизация безопасности](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_2/zadanie_19.py)| Тесты: 19/? | <a href="https://new.contest.yandex.ru/41234/problem?id=149944/2022_10_12/ZHMJWMoxqb"><img src="./docs/img/not_solved.png"></a> |
+|19.| [Автоматизация безопасности](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_2/zadanie_19.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41234/problem?id=149944/2022_10_12/ZHMJWMoxqb"><img src="./docs/img/solution.png"></a> |
 |20.| [Зайка — 2](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_2/zadanie_20.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41234/problem?id=149944/2022_10_12/HMLE76pVx9"><img src="./docs/img/solution.png"></a> |
    
 **[Back to Index](#index)**
