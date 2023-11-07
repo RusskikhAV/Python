@@ -104,15 +104,15 @@
 |8.| [Максимальная сумма](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_4/zadanie_8.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41236/problem?id=149944/2022_10_13/H4T235LbHq"><img src="./docs/img/solution.png"></a> |
 |9.| [Большое число](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_4/zadanie_9.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41236/problem?id=149944/2022_10_13/8TS9GS6QVs"><img src="./docs/img/solution.png"></a> |
 |10.| [Мы делили апельсин](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_4/zadanie_10.py)| Тесты: / | <a href="https://new.contest.yandex.ru/41236/problem?id=149944/2022_10_13/xNsp548TTK"><img src="./docs/img/solution.png"></a> |
-|11.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
-|12.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
-|13.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
-|14.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
-|15.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
-|16.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
-|17.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
-|18.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
-|19.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
-|20.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|11.| [Простая задача 3.0](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_4/zadanie_11.py)| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|12.| [Числовой прямоугольник](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_4/zadanie_12.py)| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|13.| [Числовой прямоугольник 2.0](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_4/zadanie_13.py)| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|14.| [Числовая змейка](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_4/zadanie_14.py)| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|15.| [Числовая змейка 2.0](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_4/zadanie_15.py)| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|16.| [Редизайн таблицы умножения](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_4/zadanie_16.py)| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|17.| [А роза упала на лапу Азора 3.0](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_4/zadanie_17.py)| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|18.| [Новогоднее настроение 2.0](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_4/zadanie_18.py)| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|19.| [Числовой квадрат]()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|20.| [Математическая выгода]()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
 
 **[Back to Index](#index)**
