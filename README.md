@@ -113,6 +113,15 @@
 |17.| [А роза упала на лапу Азора 3.0](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_4/zadanie_17.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41236/problem?id=149944/2022_10_13/4O47qhu5dY"><img src="./docs/img/solution.png"></a> |
 |18.| [Новогоднее настроение 2.0](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_4/zadanie_18.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41236/problem?id=149944/2022_10_13/mX0bRwfM9B"><img src="./docs/img/solution.png"></a> |
 |19.| [Числовой квадрат](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_4/zadanie_19.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41236/problem?id=149944/2022_10_13/RUb1f9NkiE"><img src="./docs/img/solution.png"></a> |
-|20.| [Математическая выгода](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_4/zadanie_20.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41236/problem?id=149944/2022_10_13/m4vMp7bQuH"><img src="./docs/img/solution.png"></a> |
+|20.| [Математическая выгода](https://github.com/RusskikhAV/Python/blob/main/chapter_2/chapter_2_4/zadanie_20.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41236/problem?id=149944/2022_10_13/m4vMp7bQuH" target="_blank"><img src="./docs/img/solution.png"></a> |
+
+**[Back to Index](#index)**
+
+### 3. Коллекции и работа с памятью
+#### 3.1 Строки, кортежи, списки
+    
+|#| Task | Description | Status |    
+|---|---|---|---|
+|1.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
 
 **[Back to Index](#index)**
