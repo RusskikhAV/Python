@@ -125,6 +125,15 @@
     
 |#| Task | Description | Status |    
 |---|---|---|---|
-|1.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|1.| [Азбука]()| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41237/problem?id=149944/2022_10_13/Rqerjkkkal"><img src="./docs/img/solution.png"></a> |
+|2.| [Кручу-верчу]()| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41237/problem?id=149944/2022_10_13/jDxpE8Yh7j"><img src="./docs/img/solution.png"></a> |
+|3.| [Анонс новости]()| Тесты: 21/21 | <a href="https://new.contest.yandex.ru/41237/problem?id=149944/2022_10_13/qCXhJgNHI9"><img src="./docs/img/solution.png"></a> |
+|4.| [Очистка данных]()| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41237/problem?id=149944/2022_10_13/OgIDCS3i0M"><img src="./docs/img/solution.png"></a> |
+|5.| [А роза упала на лапу Азора 4.0]()| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41237/problem?id=149944/2022_10_13/ov6kYV0VMp"><img src="./docs/img/solution.png"></a> |
+|6.| [Зайка — 6]()| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41237/problem?id=149944/2022_10_13/a4hvWnzaSa"><img src="./docs/img/solution.png"></a> |
+|7.| [А и Б сидели на трубе]()| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41237/problem?id=149944/2022_10_13/3EdEEqxi5v"><img src="./docs/img/solution.png"></a> |
+|8.| [Зайка — 7]()| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41237/problem?id=149944/2022_10_13/vpdTAfe36G"><img src="./docs/img/solution.png"></a> |
+|9.| [Без комментариев]()| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41237/problem?id=149944/2022_10_13/xN8A0sVDQd"><img src="./docs/img/solution.png"></a> |
+|10.| [Частотный анализ на минималках]()| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41237/problem?id=149944/2022_10_13/fCcQ3iQzrD"><img src="./docs/img/solution.png"></a> |
 
 **[Back to Index](#index)**
