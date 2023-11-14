@@ -135,5 +135,15 @@
 |8.| [Зайка — 7]()| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41237/problem?id=149944/2022_10_13/vpdTAfe36G"><img src="./docs/img/solution.png"></a> |
 |9.| [Без комментариев]()| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41237/problem?id=149944/2022_10_13/xN8A0sVDQd"><img src="./docs/img/solution.png"></a> |
 |10.| [Частотный анализ на минималках]()| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41237/problem?id=149944/2022_10_13/fCcQ3iQzrD"><img src="./docs/img/solution.png"></a> |
+|11.| [Найдётся всё]()| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41237/problem?id=149944/2022_10_13/pKCFLSCyj7"><img src="./docs/img/solution.png"></a> |
+|12.| [Меню питания]()| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41237/problem?id=149944/2022_10_13/8Ymb2732go"><img src="./docs/img/solution.png"></a> |
+|13.| [Массовое возведение в степень]()| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41237/problem?id=149944/2022_10_13/YOO7ZFJH4A"><img src="./docs/img/solution.png"></a> |
+|14.| [Массовое возведение в степень 2.0]()| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41237/problem?id=149944/2022_10_13/5vjFLZ1M9w"><img src="./docs/img/solution.png"></a> |
+|15.| [НОД 3.0]()| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41237/problem?id=149944/2022_10_13/cXCfPpVk3a"><img src="./docs/img/solution.png"></a> |
+|16.| [Анонс новости 2.0]()| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41237/problem?id=149944/2022_10_13/LGkorFrReo"><img src="./docs/img/solution.png"></a> |
+|17.| []()| Тесты: 22/22 | <a href=""><img src="./docs/img/solution.png"></a> |
+|18.| []()| Тесты: 22/22 | <a href=""><img src="./docs/img/solution.png"></a> |
+|19.| []()| Тесты: 22/22 | <a href=""><img src="./docs/img/solution.png"></a> |
+|20.| []()| Тесты: 22/22 | <a href=""><img src="./docs/img/solution.png"></a> |
 
 **[Back to Index](#index)**
