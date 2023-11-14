@@ -125,22 +125,22 @@
     
 |#| Task | Description | Status |    
 |---|---|---|---|
-|1.| [Азбука]()| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41237/problem?id=149944/2022_10_13/Rqerjkkkal"><img src="./docs/img/solution.png"></a> |
-|2.| [Кручу-верчу]()| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41237/problem?id=149944/2022_10_13/jDxpE8Yh7j"><img src="./docs/img/solution.png"></a> |
-|3.| [Анонс новости]()| Тесты: 21/21 | <a href="https://new.contest.yandex.ru/41237/problem?id=149944/2022_10_13/qCXhJgNHI9"><img src="./docs/img/solution.png"></a> |
-|4.| [Очистка данных]()| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41237/problem?id=149944/2022_10_13/OgIDCS3i0M"><img src="./docs/img/solution.png"></a> |
-|5.| [А роза упала на лапу Азора 4.0]()| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41237/problem?id=149944/2022_10_13/ov6kYV0VMp"><img src="./docs/img/solution.png"></a> |
-|6.| [Зайка — 6]()| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41237/problem?id=149944/2022_10_13/a4hvWnzaSa"><img src="./docs/img/solution.png"></a> |
-|7.| [А и Б сидели на трубе]()| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41237/problem?id=149944/2022_10_13/3EdEEqxi5v"><img src="./docs/img/solution.png"></a> |
-|8.| [Зайка — 7]()| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41237/problem?id=149944/2022_10_13/vpdTAfe36G"><img src="./docs/img/solution.png"></a> |
-|9.| [Без комментариев]()| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41237/problem?id=149944/2022_10_13/xN8A0sVDQd"><img src="./docs/img/solution.png"></a> |
-|10.| [Частотный анализ на минималках]()| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41237/problem?id=149944/2022_10_13/fCcQ3iQzrD"><img src="./docs/img/solution.png"></a> |
-|11.| [Найдётся всё]()| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41237/problem?id=149944/2022_10_13/pKCFLSCyj7"><img src="./docs/img/solution.png"></a> |
-|12.| [Меню питания]()| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41237/problem?id=149944/2022_10_13/8Ymb2732go"><img src="./docs/img/solution.png"></a> |
-|13.| [Массовое возведение в степень]()| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41237/problem?id=149944/2022_10_13/YOO7ZFJH4A"><img src="./docs/img/solution.png"></a> |
-|14.| [Массовое возведение в степень 2.0]()| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41237/problem?id=149944/2022_10_13/5vjFLZ1M9w"><img src="./docs/img/solution.png"></a> |
-|15.| [НОД 3.0]()| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41237/problem?id=149944/2022_10_13/cXCfPpVk3a"><img src="./docs/img/solution.png"></a> |
-|16.| [Анонс новости 2.0]()| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41237/problem?id=149944/2022_10_13/LGkorFrReo"><img src="./docs/img/solution.png"></a> |
+|1.| [Азбука](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_1/zadanie_1.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41237/problem?id=149944/2022_10_13/Rqerjkkkal"><img src="./docs/img/solution.png"></a> |
+|2.| [Кручу-верчу](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_1/zadanie_2.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41237/problem?id=149944/2022_10_13/jDxpE8Yh7j"><img src="./docs/img/solution.png"></a> |
+|3.| [Анонс новости](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_1/zadanie_3.py)| Тесты: 21/21 | <a href="https://new.contest.yandex.ru/41237/problem?id=149944/2022_10_13/qCXhJgNHI9"><img src="./docs/img/solution.png"></a> |
+|4.| [Очистка данных](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_1/zadanie_4.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41237/problem?id=149944/2022_10_13/OgIDCS3i0M"><img src="./docs/img/solution.png"></a> |
+|5.| [А роза упала на лапу Азора 4.0](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_1/zadanie_5.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41237/problem?id=149944/2022_10_13/ov6kYV0VMp"><img src="./docs/img/solution.png"></a> |
+|6.| [Зайка — 6](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_1/zadanie_6.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41237/problem?id=149944/2022_10_13/a4hvWnzaSa"><img src="./docs/img/solution.png"></a> |
+|7.| [А и Б сидели на трубе](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_1/zadanie_7.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41237/problem?id=149944/2022_10_13/3EdEEqxi5v"><img src="./docs/img/solution.png"></a> |
+|8.| [Зайка — 7](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_1/zadanie_8.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41237/problem?id=149944/2022_10_13/vpdTAfe36G"><img src="./docs/img/solution.png"></a> |
+|9.| [Без комментариев](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_1/zadanie_9.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41237/problem?id=149944/2022_10_13/xN8A0sVDQd"><img src="./docs/img/solution.png"></a> |
+|10.| [Частотный анализ на минималках](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_1/zadanie_10.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41237/problem?id=149944/2022_10_13/fCcQ3iQzrD"><img src="./docs/img/solution.png"></a> |
+|11.| [Найдётся всё](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_1/zadanie_11.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41237/problem?id=149944/2022_10_13/pKCFLSCyj7"><img src="./docs/img/solution.png"></a> |
+|12.| [Меню питания](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_1/zadanie_12.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41237/problem?id=149944/2022_10_13/8Ymb2732go"><img src="./docs/img/solution.png"></a> |
+|13.| [Массовое возведение в степень](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_1/zadanie_13.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41237/problem?id=149944/2022_10_13/YOO7ZFJH4A"><img src="./docs/img/solution.png"></a> |
+|14.| [Массовое возведение в степень 2.0](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_1/zadanie_14.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41237/problem?id=149944/2022_10_13/5vjFLZ1M9w"><img src="./docs/img/solution.png"></a> |
+|15.| [НОД 3.0](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_1/zadanie_15.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41237/problem?id=149944/2022_10_13/cXCfPpVk3a"><img src="./docs/img/solution.png"></a> |
+|16.| [Анонс новости 2.0](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_1/zadanie_16.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41237/problem?id=149944/2022_10_13/LGkorFrReo"><img src="./docs/img/solution.png"></a> |
 |17.| []()| Тесты: 22/22 | <a href=""><img src="./docs/img/solution.png"></a> |
 |18.| []()| Тесты: 22/22 | <a href=""><img src="./docs/img/solution.png"></a> |
 |19.| []()| Тесты: 22/22 | <a href=""><img src="./docs/img/solution.png"></a> |
