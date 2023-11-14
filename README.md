@@ -141,9 +141,9 @@
 |14.| [Массовое возведение в степень 2.0](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_1/zadanie_14.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41237/problem?id=149944/2022_10_13/5vjFLZ1M9w"><img src="./docs/img/solution.png"></a> |
 |15.| [НОД 3.0](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_1/zadanie_15.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41237/problem?id=149944/2022_10_13/cXCfPpVk3a"><img src="./docs/img/solution.png"></a> |
 |16.| [Анонс новости 2.0](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_1/zadanie_16.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41237/problem?id=149944/2022_10_13/LGkorFrReo"><img src="./docs/img/solution.png"></a> |
-|17.| []()| Тесты: 22/22 | <a href=""><img src="./docs/img/solution.png"></a> |
-|18.| []()| Тесты: 22/22 | <a href=""><img src="./docs/img/solution.png"></a> |
-|19.| []()| Тесты: 22/22 | <a href=""><img src="./docs/img/solution.png"></a> |
-|20.| []()| Тесты: 22/22 | <a href=""><img src="./docs/img/solution.png"></a> |
+|17.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|18.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|19.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|20.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
 
 **[Back to Index](#index)**
