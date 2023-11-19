@@ -141,9 +141,9 @@
 |14.| [Массовое возведение в степень 2.0](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_1/zadanie_14.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41237/problem?id=149944/2022_10_13/5vjFLZ1M9w"><img src="./docs/img/solution.png"></a> |
 |15.| [НОД 3.0](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_1/zadanie_15.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41237/problem?id=149944/2022_10_13/cXCfPpVk3a"><img src="./docs/img/solution.png"></a> |
 |16.| [Анонс новости 2.0](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_1/zadanie_16.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41237/problem?id=149944/2022_10_13/LGkorFrReo"><img src="./docs/img/solution.png"></a> |
-|17.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
-|18.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
-|19.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
-|20.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|17.| [А роза упала на лапу Азора 5.0](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_1/zadanie_17.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41237/problem?id=149944/2022_10_13/zto47acz4L"><img src="./docs/img/solution.png"></a> |
+|18.| [RLE](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_1/zadanie_18.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41237/problem?id=149944/2022_10_13/R3wYYWsSR8"><img src="./docs/img/solution.png"></a> |
+|19.| [Польский калькулятор](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_1/zadanie_19.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41237/problem?id=149944/2022_10_13/DnuaPWomud"><img src="./docs/img/solution.png"></a> |
+|20.| [Польский калькулятор — 2](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_1/zadanie_20.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41237/problem?id=149944/2022_10_13/WkFwiZon9Q"><img src="./docs/img/solution.png"></a> |
 
 **[Back to Index](#index)**
