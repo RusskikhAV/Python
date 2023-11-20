@@ -152,6 +152,11 @@
     
 |#| Task | Description | Status |    
 |---|---|---|---|
-|1.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|1.| [Символическая выжимка]()| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41238/problem?id=149944/2022_10_13/rWSOXXUpgK"><img src="./docs/img/solution.png"></a> |
+|2.| [Символическая разница]()| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41238/problem?id=149944/2022_10_13/O36RTF4IwF"><img src="./docs/img/solution.png"></a> |
+|3.| [Зайка — 8]()| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41238/problem?id=149944/2022_10_13/JnnhhAewGx"><img src="./docs/img/solution.png"></a> |
+|4.| [Кашееды]()| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41238/problem?id=149944/2022_10_13/AZM9pHPP61"><img src="./docs/img/solution.png"></a> |
+|5.| [Кашееды — 2]()| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41238/problem?id=149944/2022_10_13/DL6KYE4eaB"><img src="./docs/img/solution.png"></a> |
+|6.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
 
 **[Back to Index](#index)**
