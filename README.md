@@ -157,6 +157,10 @@
 |3.| [Зайка — 8](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_2/zadanie_3.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41238/problem?id=149944/2022_10_13/JnnhhAewGx"><img src="./docs/img/solution.png"></a> |
 |4.| [Кашееды](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_2/zadanie_4.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41238/problem?id=149944/2022_10_13/AZM9pHPP61"><img src="./docs/img/solution.png"></a> |
 |5.| [Кашееды — 2](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_2/zadanie_5.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41238/problem?id=149944/2022_10_13/DL6KYE4eaB"><img src="./docs/img/solution.png"></a> |
-|6.| []()| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
+|6.| [Кашееды — 3](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_2/zadanie_6.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41238/problem?id=149944/2022_10_13/gmpbwZnMbN"><img src="./docs/img/solution.png"></a> |
+|7.| [Азбука Морзе](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_2/zadanie_7.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41238/problem?id=149944/2022_10_13/H5d92R3S0D"><img src="./docs/img/solution.png"></a> |
+|8.| [Кашееды — 4](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_2/zadanie_8.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41238/problem?id=149944/2022_10_13/HACxqMEpWL"><img src="./docs/img/solution.png"></a> |
+|9.| [Зайка — 9](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_2/zadanie_9.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41238/problem?id=149944/2022_10_13/Tvk8oartND"><img src="./docs/img/solution.png"></a> |
+|10.| [Транслитерация](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_2/zadanie_10.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41238/problem?id=149944/2022_10_13/9T6sXF8RWo"><img src="./docs/img/solution.png"></a> |
 
 **[Back to Index](#index)**
