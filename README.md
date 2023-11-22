@@ -162,5 +162,11 @@
 |8.| [Кашееды — 4](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_2/zadanie_8.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41238/problem?id=149944/2022_10_13/HACxqMEpWL"><img src="./docs/img/solution.png"></a> |
 |9.| [Зайка — 9](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_2/zadanie_9.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41238/problem?id=149944/2022_10_13/Tvk8oartND"><img src="./docs/img/solution.png"></a> |
 |10.| [Транслитерация](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_2/zadanie_10.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41238/problem?id=149944/2022_10_13/9T6sXF8RWo"><img src="./docs/img/solution.png"></a> |
+|11.| [Однофамильцы](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_2/zadanie_11.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41238/problem?id=149944/2022_10_13/kqjNcEAgW2"><img src="./docs/img/solution.png"></a> |
+|12.| [Однофамильцы — 2](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_2/zadanie_12.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41238/problem?id=149944/2022_10_13/s6Jxtvde9U"><img src="./docs/img/solution.png"></a> |
+|13.| [Дайте чего-нибудь новенького!](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_2/zadanie_13.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41238/problem?id=149944/2022_10_13/gubdSF5uqc"><img src="./docs/img/solution.png"></a> |
+|14.| [Это будет шедевр!](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_2/zadanie_14.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41238/problem?id=149944/2022_10_13/JVVF9gtxmA"><img src="./docs/img/solution.png"></a> |
+|15.| [Двоичная статистика!](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_2/zadanie_15.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41238/problem?id=149944/2022_10_13/oYm3EisocP"><img src="./docs/img/solution.png"></a> |
+|11.| [](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_2/zadanie_10.py)| Тесты: 22/22 | <a href=""><img src="./docs/img/solution.png"></a> |
 
 **[Back to Index](#index)**
