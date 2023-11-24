@@ -167,6 +167,10 @@
 |13.| [Дайте чего-нибудь новенького!](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_2/zadanie_13.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41238/problem?id=149944/2022_10_13/gubdSF5uqc"><img src="./docs/img/solution.png"></a> |
 |14.| [Это будет шедевр!](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_2/zadanie_14.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41238/problem?id=149944/2022_10_13/JVVF9gtxmA"><img src="./docs/img/solution.png"></a> |
 |15.| [Двоичная статистика!](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_2/zadanie_15.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41238/problem?id=149944/2022_10_13/oYm3EisocP"><img src="./docs/img/solution.png"></a> |
-|11.| [](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_2/zadanie_10.py)| Тесты: 22/22 | <a href=""><img src="./docs/img/solution.png"></a> |
+|16.| [Зайка — 10](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_2/zadanie_16.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41238/problem?id=149944/2022_10_13/ki6S7TkGcp"><img src="./docs/img/solution.png"></a> |
+|17.| [Друзья друзей](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_2/zadanie_17.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41238/problem?id=149944/2022_10_13/Z4TZboVPOx"><img src="./docs/img/solution.png"></a> |
+|18.| [](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_2/zadanie_18.py)| Тесты: 22/22 | <a href=""><img src="./docs/img/solution.png"></a> |
+|19.| [](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_2/zadanie_19.py)| Тесты: 22/22 | <a href=""><img src="./docs/img/solution.png"></a> |
+|20.| [](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_2/zadanie_20.py)| Тесты: 22/22 | <a href=""><img src="./docs/img/solution.png"></a> |
 
 **[Back to Index](#index)**
