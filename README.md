@@ -13,6 +13,7 @@
 * [3 Коллекции и работа с памятью](#3-коллекции-и-работа-с-памятью)
 * [3.1 Строки, кортежи, списки](#31-строки-кортежи-списки)
 * [3.2 Множества, словари](#32-множества-словари)
+* [3.3 Списочные выражения. Модель памяти для типов языка Python]()
   
 ### 2.Базовые конструкции Python
 #### 2.1 Ввод и вывод данных. Операции с числами, строками. Форматирование
@@ -172,5 +173,13 @@
 |18.| [Карта сокровищ](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_2/zadanie_18.py)| Тесты: 21/21 | <a href="https://new.contest.yandex.ru/41238/problem?id=149944/2022_10_13/UZaLMPWk96"><img src="./docs/img/solution.png"></a> |
 |19.| [Частная собственность](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_2/zadanie_19.py)| Тесты: 21/21 | <a href="https://new.contest.yandex.ru/41238/problem?id=149944/2022_10_13/7DiV6js3vp"><img src="./docs/img/solution.png"></a> |
 |20.| [Простая задача 4.0](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_2/zadanie_20.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41238/problem?id=149944/2022_10_13/wrBaAxOEFH"><img src="./docs/img/solution.png"></a> |
+
+**[Back to Index](#index)**
+
+#### 3.3 Списочные выражения. Модель памяти для типов языка Python
+
+|#| Task | Description | Status |    
+|---|---|---|---|
+|1.| [](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_3/zadanie_1.py)| Тесты: 22/22 | <a href=""><img src="./docs/img/solution.png"></a> |
 
 **[Back to Index](#index)**
