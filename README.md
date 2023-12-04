@@ -180,6 +180,15 @@
 
 |#| Task | Description | Status |    
 |---|---|---|---|
-|1.| [](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_3/zadanie_1.py)| Тесты: 22/22 | <a href=""><img src="./docs/img/solution.png"></a> |
+|1.| [Список квадратов](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_3/zadanie_1.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41239/problem?id=149944/2022_10_21/cxXOJQMv0Y"><img src="./docs/img/solution.png"></a> |
+|2.| [Таблица умножения 2.0](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_3/zadanie_2.py)| Тесты: 12/12 | <a href="https://new.contest.yandex.ru/41239/problem?id=149944/2022_10_21/dQCMDrRj3q"><img src="./docs/img/solution.png"></a> |
+|3.| [Длины всех слов](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_3/zadanie_3.py)| Тесты: 12/12 | <a href="https://new.contest.yandex.ru/41239/problem?id=149944/2022_10_21/Wmu5XoFD8L"><img src="./docs/img/solution.png"></a> |
+|4.| [Множество нечетных чисел](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_3/zadanie_4.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41239/problem?id=149944/2022_10_21/cpVnlfo6ju"><img src="./docs/img/solution.png"></a> |
+|5.| [Множество всех полных квадратов](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_3/zadanie_5.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41239/problem?id=149944/2022_10_21/f6sGyRWpGx"><img src="./docs/img/solution.png"></a> |
+|6.| [Буквенная статистика](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_3/zadanie_6.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41239/problem?id=149944/2022_10_21/dmN3UypHop"><img src="./docs/img/solution.png"></a> |
+|7.| [Делители](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_3/zadanie_7.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41239/problem?id=149944/2022_10_21/i3ppbkQLTQ"><img src="./docs/img/solution.png"></a> |
+|8.| [Аббревиатура](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_3/zadanie_8.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41239/problem?id=149944/2022_10_21/7V6IIL9UZh"><img src="./docs/img/solution.png"></a> |
+|9.| [Преобразование в строку](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_3/zadanie_9.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41239/problem?id=149944/2022_10_21/hhsmfRisV6"><img src="./docs/img/solution.png"></a> |
+|10.| [RLE наоборот](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_3/zadanie_10.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41239/problem?id=149944/2022_10_21/QSSwcIbJMK"><img src="./docs/img/solution.png"></a> |
 
 **[Back to Index](#index)**
