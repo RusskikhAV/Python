@@ -14,6 +14,7 @@
 * [3.1 Строки, кортежи, списки](#31-строки-кортежи-списки)
 * [3.2 Множества, словари](#32-множества-словари)
 * [3.3 Списочные выражения. Модель памяти для типов языка Python](#33-списочные-выражения-модель-памяти-для-типов-языка-python)
+* [3.4 Встроенные возможности по работе с коллекциями]()
   
 ### 2.Базовые конструкции Python
 #### 2.1 Ввод и вывод данных. Операции с числами, строками. Форматирование
@@ -190,5 +191,13 @@
 |8.| [Аббревиатура](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_3/zadanie_8.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41239/problem?id=149944/2022_10_21/7V6IIL9UZh"><img src="./docs/img/solution.png"></a> |
 |9.| [Преобразование в строку](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_3/zadanie_9.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41239/problem?id=149944/2022_10_21/hhsmfRisV6"><img src="./docs/img/solution.png"></a> |
 |10.| [RLE наоборот](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_3/zadanie_10.py)| Тесты: 22/22 | <a href="https://new.contest.yandex.ru/41239/problem?id=149944/2022_10_21/QSSwcIbJMK"><img src="./docs/img/solution.png"></a> |
+
+**[Back to Index](#index)**
+
+#### 3.4 Встроенные возможности по работе с коллекциями
+
+|#| Task | Description | Status |    
+|---|---|---|---|
+|1.| [](https://github.com/RusskikhAV/Python/blob/main/chapter_3/chapter_3_4/zadanie_1.py)| Тесты: / | <a href=""><img src="./docs/img/solution.png"></a> |
 
 **[Back to Index](#index)**
